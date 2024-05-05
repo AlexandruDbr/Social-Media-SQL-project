@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a multitude of SQL scripts with the scope of creating tables, inserting and rendering data. Below are mentioned only data retrieval scripts, as these are most important, the rest of them can be found in the SQL file.
+This project is a multitude of SQL commands with the scope of creating tables, inserting and rendering data. Below are mentioned only data retrieval scripts, as these are most important, the rest of them can be found in the SQL file.
 
 ## Data set
 The dataset is from a fictive social media website, provided in the SQL course that I did at the beginning of my SQL journey, and contains with 7 tables: <br>
@@ -40,7 +40,6 @@ Result:
 |95	 | Nicole71	       |5/10/2016 3:30
 |38	 | Jordyn.Jacobson2|5/14/2016 17:56
 
-<br>
 
 2. What is the month and year with the second highest number of people who registered on the platform?
 
@@ -108,7 +107,6 @@ WITH ROLLUP;
 |Tierra.Trantow	|1
 |All users	    |26
 
-<br>
 
 4.  What user and image has the most likes on the platform?
 
@@ -155,7 +153,7 @@ Result:
 
 1.0909
 
-<br>
+
 
 6. How many photos posted each user?
 
@@ -194,7 +192,7 @@ LIMIT 5;
 | concert  | 24     |
 | beach    | 42     |
 
-<br>
+
 
 8. Check if there are users who liked every photo from the website.
 
