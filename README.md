@@ -1,4 +1,4 @@
-# Instagram--data--SQL--project
+# Social Media SQL project
 
 ## Overview
 
