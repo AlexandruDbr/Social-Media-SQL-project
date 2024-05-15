@@ -2,7 +2,14 @@
 
 ## Overview
 
-This project is a multitude of SQL commands with the scope of creating tables, inserting and rendering data. Below are mentioned only data retrieval scripts, as these are most important, the rest of them can be found in the SQL file.
+This project resebles at a small scale a social media database. The main scope of this project is to showcase knowledge of the following basic SQL commands: <br>
+* Create and update tables
+* Insert data
+* CTEs
+* Joins
+* Aggregate and date functions
+
+Below are mentioned only the select statemens, as these commands are the core of this project, the rest of them can be found in the SQL file.
 
 ## Data set
 The dataset is from a fictive social media website, provided in the SQL course that I did at the beginning of my SQL journey, and contains with 7 tables: <br>
