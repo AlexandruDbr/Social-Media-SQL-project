@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project resebles at a small scale a social media database. The main scope of this project is to showcase knowledge of the following basic SQL commands: <br>
+This project resembles at a small scale a social media database. The main scope of this project is to showcase knowledge of the following basic SQL commands: <br>
 * Create and update tables
 * Insert data
 * CTEs
