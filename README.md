@@ -1,19 +1,7 @@
 # Social Media SQL project
 
 ## Overview
-<<<<<<< HEAD
 In this project I tried to create a small scale social media data base using Data Definition Language(Create, Insert, Update) and analyse user data using date functions, aggregation functions, and Data Query Language(Joins, subqueries, CTEs) and triggers. Below are mentioned only Data Query commands, functions and a trigger, as this part is the core of this project. For a full picture of the project, please visit the SQL file.
-=======
-
-This project resembles at a small scale a social media database. The main scope of this project is to showcase knowledge of the following SQL commands: <br>
-* Create and update tables
-* Insert data
-* CTEs
-* Joins
-* Aggregate and date functions
-
-Below are mentioned only the select statemens, as these commands are the core of this project, the rest of them can be found in the SQL file.
->>>>>>> 9759e81da4bda438fc4c95a4f5ff9fc1655a2650
 
 ## Data set
 The dataset is from a fictive social media website, provided by a SQL course I enrolled in at the beginning of my SQL journey. It contains the following 7 tables: <br>
