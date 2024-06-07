@@ -1,11 +1,10 @@
 # Social Media SQL project
 
 ## Overview
-
-This project is a multitude of SQL commands with the scope of creating tables, inserting and rendering data. Below are mentioned only data retrieval scripts, as these are most important, the rest of them can be found in the SQL file.
+In this project I tried to create a small scale social media data base using Data Definition Language(Create, Insert, Update) and analyse user data using date functions, aggregation functions, and Data Query Language(Joins, subqueries, CTEs) and triggers. Below are mentioned only Data Query commands, functions and a trigger, as this part is the core of this project. For a full picture of the project, please visit the SQL file.
 
 ## Data set
-The dataset is from a fictive social media website, provided in the SQL course that I did at the beginning of my SQL journey, and contains with 7 tables: <br>
+The dataset is from a fictive social media website, provided by a SQL course I enrolled in at the beginning of my SQL journey. It contains the following 7 tables: <br>
 * users
 * photos
 * comments

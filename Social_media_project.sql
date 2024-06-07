@@ -100,7 +100,6 @@ INSERT INTO photo_tags(photo_id, tag_id) VALUES (1, 18), (1, 17), (1, 21), (1, 1
 
 
 -- 3. Select top 5 customers
-
 USE ig_clone
 
 SELECT * FROM users
@@ -109,7 +108,6 @@ LIMIT 5;
 
 
 -- 4. What is the month and year with the second highest number of people who registered on the platform?
-
 SELECT
     DATE_FORMAT(created_at, '%b') AS Month,
 	DATE_FORMAT(created_at, '%Y') AS Year,
@@ -218,7 +216,6 @@ LIMIT 5;
 
 
 -- 10. Check if there are users who liked every photo from the website.
-
 SELECT 
 	users.username, 
     count(*) likes_count
@@ -235,7 +232,6 @@ HAVING likes_count = (
 SELECT * FROM photos;
     
 -- 11.  Create a trigger to ensure people cannot follow themselves.
-
 DELIMITER //
 
 CREATE TRIGGER must_not_follow_themselves
